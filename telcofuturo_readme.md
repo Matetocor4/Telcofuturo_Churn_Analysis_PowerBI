@@ -6,7 +6,7 @@
 
 > Dashboard interactivo para identificar y reducir la tasa de abandono de clientes en el sector de telecomunicaciones colombiano.
 
----
+<img width="1568" height="727" alt="image" src="https://github.com/user-attachments/assets/3658b91b-f25f-4e75-a022-3c1e460b8ee3" />
 
 ## 🎯 Resumen del Proyecto
 
@@ -155,8 +155,6 @@ Basado en el análisis de datos, se proponen **5 acciones prioritarias**:
 
 **Aarón Mateo Tocora Jiménez**
 - 📍 Bogotá D.C., Colombia
-- 🎓 Proyecto: Data Riders - Corte 13°
-- 📅 Abril 2024
 
 ---
 
